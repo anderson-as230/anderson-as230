@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anderson-as230
 - 👀 I’m interested in decentralized and collective learning
-- 🌱 I’m currently learning java..
+- 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on personal development
 - 📫 How to reach me anderson.as230@gmail.com
 
